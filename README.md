@@ -73,10 +73,11 @@ Used for:
 
 
 
+### Wiring Diagram
 
-
-
-
+| |
+|---|
+| ![](https://github.com/studyhridhaan-coder/typer-robot/blob/main/Wiring%20Diagram.png?raw=true) |
 
 
 
