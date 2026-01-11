@@ -48,6 +48,38 @@ Used for:
 - Testing calibration and motion routines
 
 
+**BOM**
+
+| Category | Item | Qty | Cost (INR) |
+|---|---|---:|---:|
+| Electronics | Arduino (Uno / compatible) | 1 | 0 |
+| Electronics | 28BYJ-48 Stepper + ULN2003 | 2 | 500 |
+| Electronics | Micro Servo (SG90) | 1 | 120 |
+| Electronics | 5V / 2A Power Supply | 1 | 300 |
+| Electronics | Jumper Wires (MM + MF) | 1 | 150 |
+| Electronics | USB / Power Cables | 1 | 150 |
+| Mechanical | 5mm Smooth Steel Rods | 6 | 600 |
+| Mechanical | GT2 Pulley (20T) | 4 | 480 |
+| Mechanical | GT2 Timing Belt (1m) | 2 | 360 |
+| Mechanical | 3D-Printed PLA Parts | 1 set | 600 |
+| Mechanical | Fasteners (nuts, bolts) | 1 set | 300 |
+| Mechanical | Bearings / Bushings | 1 set | 250 |
+| Misc | Shipping & Delivery | 1 | 430 |
+| Misc | Pens & Calibration | 1 | 540 |
+| **Total** | **Project Cost (INR)** |  | **4710** |
+| **Total** | **Approx. Cost (USD)** |  | **56.7** |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
